@@ -1,9 +1,9 @@
 const calc = require('./calculation.js');
 
-console.log('addition 2 + 2 = ', calc.add(2, 2));
-console.log('subtract 5 - 2 = ', calc.subtract(5, 2));
-console.log('multiply 3 2 = ', calc.multiply(3, 2));
-console.log('divide 10 / 2 = ', calc.divide(10, 2));
+console.log('addition 5 + 10 = ', calc.add(5, 10));
+console.log('subtract 25 - 2 = ', calc.subtract(25, 2));
+console.log('multiply 13 * 22 = ', calc.multiply(13, 22));
+console.log('divide 10 / 2 = ', calc.divide(12, 4));
 console.log();
 
 const Rate = 300;
